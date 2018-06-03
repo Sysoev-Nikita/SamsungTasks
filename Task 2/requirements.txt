@@ -1,0 +1,5 @@
+Keras==2.1.6
+matplotlib==2.1.0
+numpy==1.13.3
+pymorphy2==0.8
+scipy==0.19.1
